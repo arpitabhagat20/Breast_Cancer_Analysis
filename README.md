@@ -37,15 +37,16 @@ concavity_worst: Worst concavity of the tumor
 concave_points_worst: Worst number of concave points on the tumor
 symmetry_worst: Worst symmetry of the tumor
 fractal_dimension_worst: Worst fractal dimension of the tumor
-Project Structure
+
+# Project Structure
 The project is organized into the following sections:
 
-# Data Cleaning: Handling missing values, correcting data types, and removing duplicates.
-# Exploratory Data Analysis (EDA): Visualizing the distribution of features, identifying correlations, and understanding the relationship between features and the target variable (diagnosis).
-# Feature Engineering: Creating new features, normalizing data, and selecting important features for model building.
-# Model Building: Developing machine learning models to predict breast cancer diagnosis.
-# Model Evaluation: Evaluating the performance of the models using appropriate metrics.
-# Conclusion: Summarizing findings and providing recommendations.
+1) Data Cleaning: Handling missing values, correcting data types, and removing duplicates.
+2) Exploratory Data Analysis (EDA): Visualizing the distribution of features, identifying correlations, and understanding the relationship between features and the target variable (diagnosis).
+3) Feature Engineering: Creating new features, normalizing data, and selecting important features for model building.
+4) Model Building: Developing machine learning models to predict breast cancer diagnosis.
+5) Model Evaluation: Evaluating the performance of the models using appropriate metrics.
+6) Conclusion: Summarizing findings and providing recommendations.
 
 # Setup and Installation
 To run the analysis, you need to have Python installed along with the following libraries:
