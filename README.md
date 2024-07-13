@@ -45,16 +45,21 @@ The project is organized into the following sections:
 # Feature Engineering: Creating new features, normalizing data, and selecting important features for model building.
 # Model Building: Developing machine learning models to predict breast cancer diagnosis.
 # Model Evaluation: Evaluating the performance of the models using appropriate metrics.
-#Conclusion: Summarizing findings and providing recommendations.
+# Conclusion: Summarizing findings and providing recommendations.
 
 # Setup and Installation
 To run the analysis, you need to have Python installed along with the following libraries:
 
 pandas
+
 numpy
+
 matplotlib
+
 seaborn
+
 scikit-learn
+
 You can install these libraries using pip:
 
 pip install pandas numpy matplotlib seaborn scikit-learn
